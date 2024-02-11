@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Admin Booking</string>
+
+    <string-array name="choice_Truck">
+        <item>2 T Truck</item>
+        <item>3 T Truck</item>
+        <item>4 T Truck</item>
+        <item>5 T Truck</item>
+        <item>6 T Truck</item>
+        <item>7 T Truck</item>
+        <item>8 T Truck</item>
+        <item>9 T Truck</item>
+        <item>10 T Truck</item>
+        <item>11 T Truck</item>
+        <item>12 T Truck</item>
+        <item>13 T Truck</item>
+        <item>14 T Truck</item>
+        <item>15 T Truck</item>
+        <item>16 T Truck</item>
+        <item>4.5 T Truck</item>
+        <item>5.5 T Truck</item>
+        <item>6.5 T Truck</item>
+        <item>7.5 T Truck</item>
+        <item>8.5 T Truck</item>
+        <item>9.5 T Truck</item>
+    </string-array>
+</resources>
